@@ -1,4 +1,4 @@
-# Custom GitHub Copilot workshop with Python Django, ReactJS, and PostgreSQL stacks
+# Custom GitHub Copilot workshop with Python Django, ReactJS, and PostgreSQL stacks!
 
 ![GitHub Copilot Workshop](./images/cover-copilot.jpg)
 
